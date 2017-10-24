@@ -1,5 +1,5 @@
 language: php
-php:
+php
  - "7.0"
 script:
 -php inicial.php
