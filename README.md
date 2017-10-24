@@ -1,5 +1,5 @@
 # Ejercicio
-[![Build Status](https://api.travis-ci.org/andrealopez1/inicial.svg?branch=master)](https://travis-ci.org/andrealopez1/inicial)
+[![Build Status](https://api.travis-ci.org/andrealopez1/Ejercicio.svg?branch=master)](https://travis-ci.org/andrealopez1/Ejercicio)
 
 
 Ejercicio. Pruebas unitarias con Travis
