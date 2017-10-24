@@ -1,1 +1,8 @@
+language:php
+php:
+- "7.0"
+
+language:c
+c:
+- "13.4"
 
